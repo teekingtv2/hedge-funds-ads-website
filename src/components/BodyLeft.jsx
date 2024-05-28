@@ -56,7 +56,7 @@ const BodyLeft = ({ data }) => {
             </Link>
           </div>
 
-          <Link to="" className="font-bold text-blue-400 text-[17px]">
+          <Link to={import.meta.env.VITE_API_URL} className="font-bold text-blue-400 text-[17px]">
             Back to our website
           </Link>
         </div>
