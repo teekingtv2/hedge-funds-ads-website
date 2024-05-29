@@ -9,42 +9,62 @@ const ImagesFooter = () => {
       <marquee behavior="alternate" direction="">
         <div className="mt-[40px] flex gap-6">
           <img
-            src={`/assets/images/telegram-1.jpeg`}
+            src={`/assets/images/testimony/telegram-1.jpg`}
             alt="Hedge Funds"
             className="h-[380px] mb-2 rounded-md"
           />
           <img
-            src={`/assets/images/telegram-2.jpeg`}
+            src={`/assets/images/testimony/telegram-2.jpg`}
             alt="Hedge Funds"
             className="h-[430px] mb-2 rounded-md"
           />
           <img
-            src={`/assets/images/telegram-3.jpeg`}
+            src={`/assets/images/testimony/telegram-3.jpg`}
             alt="Hedge Funds"
             className="h-[380px] mb-2 rounded-md"
           />
           <img
-            src={`/assets/images/telegram-4.jpeg`}
+            src={`/assets/images/testimony/telegram-4.jpg`}
             alt="Hedge Funds"
             className="h-[430px] mb-2 rounded-md"
           />
           <img
-            src={`/assets/images/telegram-5.jpeg`}
+            src={`/assets/images/testimony/telegram-5.jpg`}
             alt="Hedge Funds"
             className="h-[380px] mb-2 rounded-md"
           />
           <img
-            src={`/assets/images/telegram-6.jpeg`}
+            src={`/assets/images/testimony/telegram-6.jpg`}
             alt="Hedge Funds"
             className="h-[430px] mb-2 rounded-md"
           />
           <img
-            src={`/assets/images/telegram-7.jpeg`}
+            src={`/assets/images/testimony/telegram-7.jpg`}
             alt="Hedge Funds"
             className="h-[380px] mb-2 rounded-md"
           />
           <img
-            src={`/assets/images/telegram-8.jpeg`}
+            src={`/assets/images/testimony/telegram-8.jpg`}
+            alt="Hedge Funds"
+            className="h-[430px] mb-2 rounded-md"
+          />
+          <img
+            src={`/assets/images/testimony/telegram-9.jpg`}
+            alt="Hedge Funds"
+            className="h-[380px] mb-2 rounded-md"
+          />
+          <img
+            src={`/assets/images/testimony/telegram-10.jpg`}
+            alt="Hedge Funds"
+            className="h-[430px] mb-2 rounded-md"
+          />
+          <img
+            src={`/assets/images/testimony/telegram-11.jpg`}
+            alt="Hedge Funds"
+            className="h-[380px] mb-2 rounded-md"
+          />
+          <img
+            src={`/assets/images/testimony/telegram-12.jpg`}
             alt="Hedge Funds"
             className="h-[430px] mb-2 rounded-md"
           />

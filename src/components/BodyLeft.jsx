@@ -56,12 +56,12 @@ const BodyLeft = ({ data }) => {
             </Link>
           </div>
 
-          <Link
+          {/* <Link
             to={import.meta.env.VITE_WEBSITE_URL}
             className="font-bold text-blue-400 text-[17px]"
           >
             Back to our website
-          </Link>
+          </Link> */}
         </div>
       )}
     </div>
